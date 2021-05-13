@@ -40,3 +40,11 @@ INSTALLATION [Termux] :
     cd arnotpbypass
     ls
     python3 otpbypass.py
+
+
+INSTALLATION [KALI ] :
+
+ git clone https://github.com/ABDUL174/arnotpbypass.git
+    cd arnotpbypass
+    ls
+    python3 otpbypass.py
